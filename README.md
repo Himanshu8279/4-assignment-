@@ -28,6 +28,55 @@ is descriptive and the meta description is concise
 </body>
 </html>
 
+Q -3 What are the Benefits of Using meta tag5
+
+ans  <!DOCTYPE>
+     <HTML> 
+     <HEAD> 
+            <TITLE> benefits  </TITLE>
+     </HEAD>
+     <body>
+          <h4> Improves SEO (Search Engine Optimization)</h4>   
+     <ol> 
+         <li> Meta tags like &lt;meta name="description" content="..."&gt; help search engines understand what the page is about.  </li>
+          <li>This can increase visibility in search results and bring more traffic.</li>
+      </ol>
+          <h4>Enhances Click-Through Rates</h4>
+     <ol>
+         <ol>The meta description appears under the title in search results.</ol>
+         <ol>A clear and attractive description can encourage users to click on your link.</ol>
+     
+      </ol>
+             <h4>Controls Page Behavior</h4>
+     <ol>
+          <li>Meta tags can control how the browser behaves, such as </li>
+
+     </ol>
+     
+     
+     </body>
+     </HTML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
