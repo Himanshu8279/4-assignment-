@@ -57,6 +57,41 @@ ans  <!DOCTYPE>
      </body>
      </HTML>
 
+Q-4 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Semantic HTML Example</title>
+  <meta name="description" content="Simple page using semantic HTML tags for better SEO.">
+</head>
+<body>
+
+  <header>
+    <h1>My Blog</h1>
+  </header>
+
+  <nav>
+    <a href="#home">Home</a> 
+    <a href="#articles">Articles</a>
+  </nav>
+
+  <section id="articles">
+    <article>
+      <h2>What is Semantic HTML?</h2>
+      <p>Semantic HTML uses tags that describe their meaning, like &lt;article&gt; or &lt;nav&gt;.</p>
+    </article>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 My Blog</p>
+  </footer>
+
+</body>
+</html>
+
 
 
 
