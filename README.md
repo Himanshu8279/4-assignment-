@@ -92,7 +92,20 @@ Q-4
 </body>
 </html>
 
-
+Q-5
+ 
+ A favicon (short for favorite icon) is a small icon displayed in the browser tab, bookmark bar, or history next to a website's name or URL. It helps users identify and recognize your website quickly
+ code 
+ <!DOCTYPE html>
+<html>
+<head>
+  <title>My Website</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+</body>
+</html>
 
 
 
